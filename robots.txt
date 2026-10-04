@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-company-owner.github.io/sitemap.xml

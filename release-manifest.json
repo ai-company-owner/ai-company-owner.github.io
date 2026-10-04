@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "path": "about/index.html",
+      "sha256": "5eeb85ca7011b2515c4602c56aa9131ba5b7a8e425eb212a70481e71f56b98e4",
+      "bytes": 2938
+    },
+    {
+      "path": "assets/icons/build.svg",
+      "sha256": "72ffdb426c944d9824da470dfee7c6a039ed014dae66a708f9bb95501e3816b5",
+      "bytes": 216
+    },
+    {
+      "path": "assets/icons/design.svg",
+      "sha256": "5a4ad36cab35696c459abe0bff101920eabff25bdf872d39448c7cbe1675f985",
+      "bytes": 249
+    },
+    {
+      "path": "assets/icons/improve.svg",
+      "sha256": "bc141b7e4784e76d7858fd8830a147f22db02a9186932ef87a693ee2696f3643",
+      "bytes": 237
+    },
+    {
+      "path": "assets/icons/privacy.svg",
+      "sha256": "28b56b4a7ef6087cc506d765559ff394d2a11b5d9883b7355f2acba8f0ac038b",
+      "bytes": 250
+    },
+    {
+      "path": "assets/icons/research.svg",
+      "sha256": "fd9e21372c90e0c611867c6a64ec76424ccce92293f10691a81567ca9e826e32",
+      "bytes": 215
+    },
+    {
+      "path": "assets/icons/verify.svg",
+      "sha256": "e70906c8f3c71cb66dc1e90a7d171d710a8f01666365cc6aa617dda72fed58d1",
+      "bytes": 251
+    },
+    {
+      "path": "assets/illustrations/boundary.svg",
+      "sha256": "27b8461f8ec6f4610a04b825aade7c11750b148f04468228cb20e4feefeda724",
+      "bytes": 929
+    },
+    {
+      "path": "assets/illustrations/company-studio.svg",
+      "sha256": "3062394142cfd9d3ff6038feab7bcbdb200f45533adc1fe90aea12e7c9c8cdfc",
+      "bytes": 1123
+    },
+    {
+      "path": "assets/illustrations/diagnostic.svg",
+      "sha256": "9b5f78168f2e2352a70d6eee91639c9090cfc903410de8218a7b35526b1ccd9f",
+      "bytes": 957
+    },
+    {
+      "path": "assets/illustrations/epub-repair.svg",
+      "sha256": "2cc38a9136f03deefb2e2b6fab9cd826315e13822ee8ea9a3aa0fde866e23da2",
+      "bytes": 1020
+    },
+    {
+      "path": "assets/illustrations/evidence.svg",
+      "sha256": "82facebb3ab09af528325385ceacf97caa18bd017a3798ba37ce7d16e75f1add",
+      "bytes": 866
+    },
+    {
+      "path": "assets/studio-workspace.jpg",
+      "sha256": "cb64ad5277fafb00392265dee047724630b24b716d2676b148bf423333f028fa",
+      "bytes": 579884
+    },
+    {
+      "path": "guides/index.html",
+      "sha256": "c7ea8b5e7533005e2ec1600b1f88fecb54609c77160dfa55e6f1c40b3c9981ee",
+      "bytes": 2658
+    },
+    {
+      "path": "index.html",
+      "sha256": "e4697dc5b55d9ea4f5decee9926f865f8fe039b6aa4368dcaa843f6e0f433316",
+      "bytes": 6678
+    },
+    {
+      "path": "privacy/index.html",
+      "sha256": "362ef82c554e35e3b46efa55d3088dbeb9602b66afb33cbcc7e16954c2031f8f",
+      "bytes": 2750
+    },
+    {
+      "path": "product/epub-conformance-repair/index.html",
+      "sha256": "a472850759efe5487dcfc2424300744093cbd77af0885b1f8ff41f77b358eeeb",
+      "bytes": 4682
+    },
+    {
+      "path": "products/index.html",
+      "sha256": "5cf7fa381db7962a98a8e0f2c117414fb5e96fff2eaa34745c7e2d572fc1192a",
+      "bytes": 2765
+    },
+    {
+      "path": "refunds/index.html",
+      "sha256": "50b87b52d500361421cffe58c82471cccee6e7d9c5c27e08eb21a4845265c2cd",
+      "bytes": 2645
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "601be5742b58f562bd740ecd5c20a784b8258999aa47b499d02c7c349243e8b9",
+      "bytes": 79
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "0e9ae8a0d9041dad2ec9f95d19e7520df54cc10969b69d1f3e223122b2957d59",
+      "bytes": 734
+    },
+    {
+      "path": "styles.css",
+      "sha256": "ab42ee4a65d0134426425d82fd2215207a2bb583c8dc5e28ab28666053d1fd59",
+      "bytes": 31869
+    },
+    {
+      "path": "support/index.html",
+      "sha256": "711e73aeeada37b53f62013c56b5989a1ede9b1bf8ad12080dd99d35509a15a1",
+      "bytes": 2558
+    },
+    {
+      "path": "terms/index.html",
+      "sha256": "9997adb59f5ff0b74ebd118e288bdb87100f3c95ccc4196f453508676fbc7f35",
+      "bytes": 2597
+    }
+  ]
+}
