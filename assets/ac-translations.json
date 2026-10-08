@@ -5,7 +5,7 @@
       "title": "Useful software.<br><span class=\"ac-gradient\">Less busywork.</span>",
       "lead": "AI COMPANY builds practical desktop tools that simplify repetitive, technical tasks. Clear results, straightforward workflows, and software that respects your files.",
       "primary": "Explore our first product →",
-      "secondary": "About the company",
+      "secondary": "About AI COMPANY",
       "note": "Our first product is in pre-release. No checkout is active.",
       "section1": "Tools that solve a specific problem.",
       "sub1": "Each product focuses on a task that should be easier, faster, or more reliable.",
@@ -138,22 +138,22 @@
   "about": {
     "en": {
       "eyebrow": "About AI COMPANY",
-      "title": "Practical software from Japan.",
-      "lead": "AI COMPANY is an independent software publishing brand based in Japan. We develop focused desktop utilities for repetitive and technical tasks.",
-      "section1": "What we value",
-      "sub1": "Clear functionality, understandable results, respect for user files, and honest explanations of limitations.",
-      "section2": "About the brand",
-      "sub2": "AI COMPANY is a publishing brand; this description does not imply a particular corporate form or team size.",
+      "title": "About AI COMPANY",
+      "lead": "AI COMPANY is an independently operated software development brand based in Japan, run by an individual developer. We plan, build, and prepare practical software that simplifies repetitive and technical work.",
+      "section1": "Built for real users",
+      "sub1": "We focus on approachable interfaces, useful functionality, careful verification, and continuous improvement.",
+      "section2": "Our first product",
+      "sub2": "We are preparing the EPUB Conformance Repair Assistant (PRODUCT-001) for release.",
       "primary": "Explore products →"
     },
     "ja": {
       "eyebrow": "AI COMPANYについて",
-      "title": "日本発の実用的なソフトウェア。",
-      "lead": "AI COMPANYは日本を拠点とする独立系ソフトウェアブランドです。繰り返し作業や専門的な作業を簡単にするデスクトップアプリを開発しています。",
-      "section1": "大切にしていること",
-      "sub1": "分かりやすい機能と結果、ユーザーのファイルの保護、製品の制限を正確に伝えることを重視しています。",
-      "section2": "ブランドについて",
-      "sub2": "AI COMPANYは製品の公開・販売に使用するブランド名です。特定の法人形態や従業員数を示すものではありません。",
+      "title": "AI COMPANYについて",
+      "lead": "AI COMPANYは、日本を拠点とする個人運営のソフトウェア開発ブランドです。日常業務や専門的な作業の負担を減らす、実用的なソフトウェアの企画・開発・販売を目指しています。",
+      "section1": "使いやすさと品質を大切に",
+      "sub1": "分かりやすい操作、実際に役立つ機能、正確な検証を重視し、使う人の立場で製品を改善していきます。",
+      "section2": "現在の開発製品",
+      "sub2": "第一弾製品「EPUB検査・修復アシスタント（PRODUCT-001）」の発売準備を進めています。",
       "primary": "製品を見る →"
     }
   },
