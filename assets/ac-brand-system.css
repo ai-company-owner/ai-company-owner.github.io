@@ -1,0 +1,51 @@
+:root{color-scheme:dark;--bg:#080e19;--panel:#101c2e;--line:#253b53;--text:#f2f7ff;--muted:#b0c2d5;--accent:#82d9ff}
+/* Shared neural-core design system; product demonstrations retain their authentic light appearance. */
+body{font-family:Inter,'Segoe UI','Noto Sans CJK JP','Hiragino Sans',Meiryo,sans-serif;background:var(--bg);color:var(--text);line-height:1.75}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.ac-shell{min-height:100vh;background:radial-gradient(ellipse 58% 22% at 77% 4%,#10345570,transparent 72%),var(--bg);position:relative;isolation:isolate}
+.ac-shell:before{content:"";position:absolute;inset:0 0 auto;height:580px;z-index:-1;pointer-events:none;background-image:linear-gradient(#41658213 1px,transparent 1px),linear-gradient(90deg,#41658213 1px,transparent 1px);background-size:48px 48px;mask-image:linear-gradient(180deg,black,transparent)}
+.ac-container{width:min(1180px,calc(100% - 64px));max-width:none;padding-inline:0;margin-inline:auto}
+.ac-nav,.nav{min-height:76px;height:auto;gap:20px;border-bottom:1px solid #26364a;flex-wrap:wrap}
+.ac-brand,.brand{font-size:15px;letter-spacing:.12em;font-weight:750;gap:11px;white-space:nowrap}
+.ac-mark,.mark{width:32px;height:32px;display:grid;place-items:center;border:1px solid #79bce5;border-radius:9px;color:var(--accent);background:transparent;box-shadow:inset 0 0 18px #1e598055;font-size:20px}
+.ac-links,.links{display:flex;align-items:center;gap:27px;color:var(--muted);font-size:13px}
+.ac-lang,.lang{border:1px solid var(--line);border-radius:8px;padding:3px;gap:3px;background:transparent}
+.ac-lang button,.lang button{color:var(--muted);background:none;border:0;padding:3px 8px;border-radius:5px;cursor:pointer;font-size:12px}
+.ac-lang button.active,.ac-lang button[aria-pressed=true],.lang button[aria-pressed=true]{background:#d5f0ff;color:#082136;font-weight:700}
+.ac-kicker{display:inline-flex;align-items:center;gap:10px;font-size:11px;letter-spacing:.15em;color:var(--accent);font-weight:750}
+.ac-kicker:before{content:"";width:22px;height:1px;background:var(--accent);box-shadow:0 0 7px var(--accent);flex-shrink:0}
+.ac-gradient{background:linear-gradient(100deg,#f5fbff,#8ed7ff 85%);background-clip:text;-webkit-text-fill-color:transparent}
+.ac-product-hero,.sales-hero{padding-block:65px}
+.ac-product-hero h1,.sales-hero h1{font-size:clamp(34px,3.7vw,52px);line-height:1.27;letter-spacing:-.045em;overflow-wrap:anywhere}
+.ac-heading{font-size:clamp(27px,3.2vw,39px);line-height:1.4;letter-spacing:-.025em;overflow-wrap:anywhere}
+.ac-lead,.ac-sub,.ac-card p,.ac-note,.ac-faq p{color:var(--muted);line-height:1.9}
+.ac-section{padding:65px 0;border-color:#26364a}
+.ac-card,.ac-product-preview,.ac-banner,.sales-screen,.sales-proof>div,.sales-comparison>div,.sales-flow div,.feature-group,.feature-detail,.sales-video-panel,.ac-resource{border:1px solid #2b4560;background:linear-gradient(125deg,#14243a,#0d1727 75%);border-radius:19px;position:relative;min-width:0}
+.ac-card:before,.ac-product-preview:before,.ac-banner:before,.sales-screen:before,.feature-group:before{content:"";position:absolute;top:0;left:24px;right:24px;height:1px;background:linear-gradient(90deg,transparent,#71d4ff99,transparent);pointer-events:none}
+.feature-detail,.sales-flow div{background:#0c182b;border-radius:12px}
+.sales-screen-head{background:#14243a}.sales-screen-inner{background:#101c2e}
+.sales-comparison .active{background:#142b43;border-color:#77badd}
+.ac-button,.btn{min-height:48px;padding:12px 22px;border-radius:8px;background:#d9f1ff;color:#092036;font-size:14px;font-weight:750;box-shadow:0 8px 28px #479dd02b}
+.ac-button:hover,.btn:hover{background:white;color:#092036}
+.ac-button.alt,.btn.secondary{background:transparent;border:1px solid #37516d;color:#c6d9eb;box-shadow:none}
+.ac-product-nav{padding-block:20px 0}
+.ac-breadcrumb{display:flex;align-items:center;gap:10px;color:#a9bed1;font-size:12px;flex-wrap:wrap;margin-bottom:14px}
+.ac-product-tabs{display:flex;flex-wrap:wrap;gap:8px;padding:11px;border:1px solid var(--line);border-radius:12px;background:#101c2e}
+.ac-product-tabs a{padding:8px 12px;border-radius:7px;font-size:13px;color:#c6d9eb;line-height:1.4}
+.ac-product-tabs a:hover,.ac-product-tabs a[aria-current=page]{background:#203d57;color:#b1e5ff}
+.ac-product-id{font-size:12px;color:var(--accent);padding-top:24px;letter-spacing:.05em}
+.ac-resource-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:26px}
+.ac-resource{padding:22px;display:flex;align-items:center;justify-content:space-between;gap:12px;font-weight:650;overflow-wrap:anywhere}
+.ac-resource:hover{border-color:#82d9ff;color:#82d9ff}
+.ac-footer,.footer{border-color:var(--line);padding:27px 0 35px;color:#a9bed1;font-size:12px}
+.ac-footer-inner{gap:20px;align-items:flex-start}
+.ac-product-legal{width:100%;border-bottom:1px solid var(--line);padding-bottom:18px;order:-1}
+.ac-footer-links{gap:17px}
+.ac-skip{position:absolute;top:-80px;left:10px;background:white;color:black;padding:10px;z-index:10}
+.ac-skip:focus{top:10px}
+.ac-host-note{padding:0 0 48px;color:var(--accent);text-decoration:underline}
+.ac-legal-copy{max-width:880px}.ac-card h3{overflow-wrap:anywhere}
+section[id]{scroll-margin-top:22px}
+@media(max-width:850px){.ac-container{width:calc(100% - 40px)}.ac-section{padding:46px 0}.ac-product-hero,.sales-hero{padding-block:46px}.ac-links,.links{gap:15px}.ac-resource-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.ac-product-tabs{gap:5px}.ac-product-tabs a{padding:8px}}
+@media(max-width:480px){.ac-container{width:calc(100% - 32px)}.ac-nav,.nav{gap:9px;min-height:68px;padding-block:12px}.ac-brand,.brand{font-size:12px;letter-spacing:.05em;gap:6px}.ac-mark,.mark{width:27px;height:27px;font-size:17px}.ac-links,.links{gap:9px;font-size:11px;flex-wrap:wrap}.ac-links a{font-size:11px}.ac-lang button,.lang button{padding:3px 5px;font-size:11px}.ac-product-hero h1,.sales-hero h1{font-size:37px}.ac-resource-grid{grid-template-columns:1fr}.ac-product-tabs a{font-size:12px}.ac-product-legal{gap:12px}.ac-button{max-width:100%}.ac-product-tabs{padding:8px}.sales-screen-head{flex-wrap:wrap}.ac-card,.ac-banner{padding:20px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ac-button{transition:none}}

@@ -208,7 +208,7 @@
       "eyebrow": "Privacy",
       "title": "Your manuscripts stay on your computer.",
       "lead": "EPUB Conformance Repair Assistant currently processes EPUB files locally on Windows and does not upload manuscript contents to AI COMPANY or an AI API.",
-      "section1": "Website data",
+      "section1": "Local application data",
       "sub1": "The app may store local processing history, file paths and SHA-256 hashes. Data handling by the eventual checkout, update and support providers will be disclosed before sales.",
       "section2": "No unnecessary uploads",
       "sub2": "Do not send unpublished manuscripts through support unless needed and you explicitly choose to do so.",
@@ -218,7 +218,7 @@
       "eyebrow": "プライバシー",
       "title": "原稿データはお使いのPC内で処理します。",
       "lead": "EPUB検査・修復アシスタントは現在、Windows PC内でEPUBファイルを処理します。原稿の内容をAI COMPANYやAI APIにアップロードしません。",
-      "section1": "Webサイトでの情報の取り扱い",
+      "section1": "アプリ内の保存情報",
       "sub1": "アプリは処理履歴・ファイルパス・SHA-256ハッシュなどをPC内に保存する場合があります。決済・更新・サポートに伴う情報取扱いは販売開始前に明示します。",
       "section2": "不要な原稿送信を避ける",
       "sub2": "サポート時も、必要性を確認し、ご自身で選択するまでは未公開原稿を送信しないでください。",
@@ -267,6 +267,28 @@
       "section2": "発売前の確認",
       "sub2": "返金方針はオーナーと販売チャネルの最終承認後に確定します。",
       "primary": "製品情報を見る →"
+    }
+  },
+  "sitePrivacy": {
+    "en": {
+      "eyebrow": "Website privacy",
+      "title": "Website information",
+      "lead": "This AI COMPANY website is hosted on GitHub Pages. This page describes the website separately from each product.",
+      "section1": "Language preference",
+      "sub1": "The website stores your selected Japanese or English language in your browser’s local storage and may carry the language in page URLs.",
+      "section2": "Hosting and product data",
+      "sub2": "GitHub handles hosting and related information under its own privacy statement. Product-specific information handling is described on the corresponding product page. Checkout and public downloads are not active.",
+      "primary": "PRODUCT-001 privacy →"
+    },
+    "ja": {
+      "eyebrow": "サイトのプライバシー",
+      "title": "Webサイトでの情報の取り扱い",
+      "lead": "AI COMPANYのWebサイトはGitHub Pagesで公開しています。Webサイトと各製品の情報の取り扱いを分けてご案内します。",
+      "section1": "表示言語の保存",
+      "sub1": "選択した日本語・英語の表示設定をブラウザのローカルストレージに保存し、ページのURLに言語を引き継ぐ場合があります。",
+      "section2": "ホスティングと製品の情報",
+      "sub2": "ホスティングに関する情報はGitHubのプライバシー声明に従って取り扱われます。製品固有の情報は各製品のページに記載します。現在、決済・一般向けダウンロードは提供していません。",
+      "primary": "PRODUCT-001のプライバシー →"
     }
   }
 }
