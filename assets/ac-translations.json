@@ -1,11 +1,11 @@
 {
   "home": {
     "en": {
-      "eyebrow": "Independent software studio · Japan",
-      "title": "Useful software.<br><span class=\"ac-gradient\">Less busywork.</span>",
-      "lead": "AI COMPANY builds practical desktop tools that simplify repetitive, technical tasks. Clear results, straightforward workflows, and software that respects your files.",
+      "eyebrow": "Independent software development",
+      "title": "Built with AI.<br><span class=\"ac-gradient\">Made to help.</span>",
+      "lead": "Practical software, created with AI to make everyday tasks and work easier.",
       "primary": "Explore our first product →",
-      "secondary": "About AI COMPANY",
+      "secondary": "About the brand",
       "note": "Our first product is in pre-release. No checkout is active.",
       "section1": "Tools that solve a specific problem.",
       "sub1": "Each product focuses on a task that should be easier, faster, or more reliable.",
@@ -22,11 +22,11 @@
       "sub3": "Straightforward tools, clear limits, and local file processing where possible."
     },
     "ja": {
-      "eyebrow": "日本発の独立系ソフトウェアブランド",
-      "title": "便利なソフトで、<br><span class=\"ac-gradient\">面倒な作業をもっと簡単に。</span>",
-      "lead": "AI COMPANYは、繰り返し作業や専門的な作業を簡単にする実用的なソフトウェアを開発しています。使いやすさ、分かりやすい結果、ファイルの安全性を大切にしています。",
+      "eyebrow": "個人開発のソフトウェアブランド",
+      "title": "AIの力で、<br><span class=\"ac-gradient\">もっと便利な毎日へ。</span>",
+      "lead": "AIを活用し、日常や仕事の不便を解決する、実用的なソフトウェアを生み出していきます。",
       "primary": "最初の製品を見る →",
-      "secondary": "AI COMPANYについて",
+      "secondary": "ブランドについて",
       "note": "最初の製品は発売準備中です。現在は購入できません。",
       "section1": "具体的な問題を解決するソフトウェア。",
       "sub1": "一つひとつの製品が、手間のかかる作業をもっと簡単にすることを目指しています。",
@@ -140,22 +140,22 @@
   "about": {
     "en": {
       "eyebrow": "About AI COMPANY",
-      "title": "About AI COMPANY",
-      "lead": "AI COMPANY is an independently operated software development brand based in Japan, run by an individual developer. We plan, build, and prepare practical software that simplifies repetitive and technical work.",
-      "section1": "Built for real users",
-      "sub1": "We focus on approachable interfaces, useful functionality, careful verification, and continuous improvement.",
-      "section2": "Our first product",
-      "sub2": "We are preparing the EPUB Conformance Repair Assistant (EPUB Conformance Repair Assistant) for release.",
+      "title": "Useful tools, one at a time.",
+      "lead": "AI COMPANY is an independent developer’s software brand based in Japan. I use AI to create practical software that helps people with everyday tasks and work.",
+      "section1": "What matters",
+      "sub1": "Practicality, ease of use and trustworthy results. I aim to make each tool useful and straightforward.",
+      "section2": "An independent brand",
+      "sub2": "AI COMPANY is the name of an individual development brand, not an incorporated company.",
       "primary": "Explore products →"
     },
     "ja": {
       "eyebrow": "AI COMPANYについて",
-      "title": "AI COMPANYについて",
-      "lead": "AI COMPANYは、日本を拠点とする個人運営のソフトウェア開発ブランドです。日常業務や専門的な作業の負担を減らす、実用的なソフトウェアの企画・開発・販売を目指しています。",
-      "section1": "使いやすさと品質を大切に",
-      "sub1": "分かりやすい操作、実際に役立つ機能、正確な検証を重視し、使う人の立場で製品を改善していきます。",
-      "section2": "現在の開発製品",
-      "sub2": "第一弾製品「EPUB検査・修復アシスタント（EPUB検査・修復アシスタント）」の発売準備を進めています。",
+      "title": "役立つツールを、一つずつ。",
+      "lead": "AI COMPANYは、AIを活用した日本発の個人開発のソフトウェアブランドです。日常生活や仕事の不便を解消し、世の中の役に立つツールを生み出していきます。",
+      "section1": "大切にしていること",
+      "sub1": "実用性、使いやすさ、信頼性。一つひとつの製品を、使う人の立場で改善していきます。",
+      "section2": "個人開発ブランド",
+      "sub2": "AI COMPANYは個人開発のブランド名であり、法人ではありません。",
       "primary": "製品を見る →"
     }
   },

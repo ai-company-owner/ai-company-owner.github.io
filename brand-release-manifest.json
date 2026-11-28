@@ -1,0 +1,30 @@
+{
+  "scope": "2026-11-28 brand refresh changed files only",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "08cc4592f97ce9d6d97fd7b686ca1d0f73beb96a1f17057eed76a9e0734dfe98",
+      "bytes": 18911
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "662b3cd37f38aa2052e021e58ba0a36a356c6c492d35afefe6a8408b37941309",
+      "bytes": 2726
+    },
+    {
+      "path": "products/index.html",
+      "sha256": "dd25b287c1eb819486b701b12a8bd624484806b967903de8847516f75782e303",
+      "bytes": 2802
+    },
+    {
+      "path": "assets/ac-language.js",
+      "sha256": "3d17f27839a6065a117e27093ba4a28a4b7d86cd1c97f05080bd3d636820ebe0",
+      "bytes": 18395
+    },
+    {
+      "path": "assets/ac-translations.json",
+      "sha256": "b7fbbe79f9cd6ff59e4e31ad6f979d0f0b4a476f6606fe15c87c93d64a799d7b",
+      "bytes": 18094
+    }
+  ]
+}
